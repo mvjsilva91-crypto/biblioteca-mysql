@@ -22,6 +22,8 @@ biblioteca-database-mysql
  │   ├── 02_create_tables.sql
  │   ├── 03_inserts.sql
  │   └── 04_queries.sql
+ ├── diagrama/
+ │   └── diagrama_biblioteca.png
  └── README.md
 ```
 
@@ -33,6 +35,12 @@ biblioteca-database-mysql
 * **Livro**: informações dos livros
 * **Membro**: usuários da biblioteca
 * **Emprestimo**: controle de empréstimos
+
+---
+
+## 🗺 Diagrama do Banco
+
+![Diagrama](diagrama/diagrama_biblioteca.png)
 
 ---
 
